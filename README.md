@@ -1,4 +1,15 @@
-# QuickNotes プロジェクト README
+# QuickNotes App
+
+---
+
+## 目的
+
+下記の勉強。
+
+- aws cdk
+- amplify gen2
+- github actions
+- google アカウントで ログインの認証形式 （メイン）
 
 ---
 
