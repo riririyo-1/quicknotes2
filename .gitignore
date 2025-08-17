@@ -23,6 +23,11 @@ frontend/.env*.local
 
 # AWS
 .aws/
+infra/aws/
+infra/cdk.out/
+infra/*.js
+infra/*.d.ts
+infra/*.js.map
 
 # Logs
 npm-debug.log*
